@@ -15,4 +15,4 @@ Separamos el codigo en secciones para tener una version modular del analisis que
 
 Comentario:
 Las visualizaciones y la version preliminar, por el momento, agarran solo algunos analisis de series de tiempo.
-Los resultados finales seran presentados luego de obtener, en cooperacion con Mercado Libre, una ultima base de datos. 
+Los resultados finales seran presentados luego de obtener, una ultima base de datos. 
