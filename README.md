@@ -1,8 +1,5 @@
 Se analiza el impacto causal de la ley de alquileres.
-Separamos el codigo en secciones para tener una version modular del analisis que queremos hacer. Si queremos trabajar sin las variables de la EPH, porque no las vemos necesarias para alguna serie de tiempo, 
-no corremos el codigo (3). Si no queremos estudiar las hipotesis alternativas, no corremos el codigo (2)
-Si queremos trabajar con las visualizaciones, Manipulamos el codigo (5)
-
+Separamos el codigo en secciones para tener una version modular del analisis que queremos hacer.
 
 (1) Se manipulan las bases para obtener las principales variables dependientes e independientes. Se separan en distintos periodos de inicio para que el codigo de series de tiempo sea mas limpio.
 
